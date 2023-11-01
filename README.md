@@ -6,6 +6,7 @@ install the Python
 
 # Set up the Environment 
 pip install virtualenv
+
 virtualenv myenv
 
 # Activate the Environment 
@@ -17,5 +18,5 @@ pip install selenium
 
 pip install webdriver-manager
 
-#Last step 
+# Last step 
 Run the Project 
