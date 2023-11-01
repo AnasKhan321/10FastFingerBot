@@ -12,7 +12,7 @@ virtualenv myenv
 # Activate the Environment 
 myenv\Scripts\activate
 
-#Install the Dependencies 
+# Install the Dependencies 
 
 pip install selenium 
 
